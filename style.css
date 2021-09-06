@@ -1,0 +1,38 @@
+.heading{
+    font-size: 25px;
+    color: darkblue;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px gray;
+}
+.heading_div{
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: magenta;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.heading_div2{
+    font-size: 20px;
+}
+.result_par_tag{
+    font-size: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.footer{
+    background-color: lightpink;
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 150px;
+}
